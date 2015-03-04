@@ -1,0 +1,8 @@
+{
+  "name": "AD-book",
+  "main": "index.html",
+  "window": {
+    "title": "AD book",
+    "toolbar": false
+  }
+}
